@@ -1,0 +1,47 @@
+
+
+
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.formulario{
+    margin-left: 600px;
+    margin-top: 300px;
+    margin-right: 610px;
+    
+    
+}
+.formulario1{
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+    margin-left: 120px;
+    margin-top: 10px;
+    margin-right: 370px;
+    
+}
+
+.enviar{
+    background-color: skyblue;
+    color: black;
+    width: 180px;
+    height: 30px; 
+}
+
+.div{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    background-color: lightgrey;
+
+}
+
+
